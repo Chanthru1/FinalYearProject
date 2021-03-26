@@ -2,7 +2,6 @@ import tensorflow.keras as keras
 import numpy as np
 import librosa
 import json
-from sklearn.model_selection import train_test_split
 import random
 import os
 from flask import Flask, request, jsonify
